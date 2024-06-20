@@ -1,5 +1,5 @@
 # llama-2-ai-websockets-chatbot
-Conversational chatbot that leverages the capabilities of the Llama-2 AI and WebSockets for user-friendly communications.
+Conversational chatbot that leverages the capabilities of the **Llama-2 AI** and **WebSockets** for user-friendly communications.
 
 The project is abandoned for more than 2 years and there is no intentions of resuming work on it.
 
